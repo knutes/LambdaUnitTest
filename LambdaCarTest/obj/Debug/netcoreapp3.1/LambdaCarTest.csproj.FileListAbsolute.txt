@@ -1,0 +1,15 @@
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\LambdaCarTest.deps.json
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\LambdaCarTest.runtimeconfig.json
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\LambdaCarTest.runtimeconfig.dev.json
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\LambdaCarTest.dll
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\LambdaCarTest.pdb
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.csprojAssemblyReference.cache
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.AssemblyInfoInputs.cache
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.AssemblyInfo.cs
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.csproj.CoreCompileInputs.cache
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.csproj.CopyComplete
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.dll
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.pdb
+C:\Users\austink\source\repos\LambdaCarTest\LambdaCarTest\obj\Debug\netcoreapp3.1\LambdaCarTest.genruntimeconfig.cache

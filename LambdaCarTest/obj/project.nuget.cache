@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyuEyn2RsifUfydQR/aO3s/QJN66ZU86fnd/ZSapzyN024VtxUGVILjcrEmOt+TgJYFEBH8BpIOP2AlY/Da6tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austink\\source\\repos\\LambdaCarTest\\LambdaCarTest\\LambdaCarTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austink\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\austink\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
